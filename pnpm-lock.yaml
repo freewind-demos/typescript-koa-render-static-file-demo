@@ -6,30 +6,30 @@ settings:
 
 dependencies:
   koa:
-    specifier: '*'
+    specifier: latest
     version: 2.15.0
   koa-bodyparser:
-    specifier: '*'
+    specifier: latest
     version: 4.4.1
   koa-router:
-    specifier: '*'
+    specifier: latest
     version: 12.0.1
 
 devDependencies:
   '@types/koa':
-    specifier: '*'
+    specifier: latest
     version: 2.13.12
   '@types/koa-bodyparser':
-    specifier: '*'
+    specifier: latest
     version: 4.3.12
   '@types/koa-router':
-    specifier: '*'
+    specifier: latest
     version: 7.4.8
   ts-node:
-    specifier: '*'
+    specifier: latest
     version: 10.9.2(@types/node@20.10.6)(typescript@5.3.3)
   typescript:
-    specifier: '*'
+    specifier: latest
     version: 5.3.3
 
 packages:
