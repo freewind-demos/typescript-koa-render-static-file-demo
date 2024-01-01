@@ -3,15 +3,15 @@
     "demo": "ts-node hello.ts"
   },
   "devDependencies": {
-    "@types/koa": "2.0.48",
-    "@types/koa-bodyparser": "4.2.1",
-    "@types/koa-router": "7.0.37",
-    "ts-node": "7.0.1",
-    "typescript": "3.2.2"
+    "@types/koa": "*",
+    "@types/koa-bodyparser": "*",
+    "@types/koa-router": "*",
+    "ts-node": "*",
+    "typescript": "*"
   },
   "dependencies": {
-    "koa": "2.6.2",
-    "koa-bodyparser": "4.2.1",
-    "koa-router": "7.4.0"
+    "koa": "*",
+    "koa-bodyparser": "*",
+    "koa-router": "*"
   }
 }
