@@ -7,7 +7,7 @@
     "@types/koa-static": "latest",
     "koa-static": "latest",
     "ts-node": "latest",
-    "typescript": "latest"
+    "typescript": "5.3.3"
   },
   "dependencies": {
     "koa": "latest"
